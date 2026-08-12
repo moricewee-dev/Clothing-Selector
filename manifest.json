@@ -1,0 +1,16 @@
+{
+  "name": "The Drawer",
+  "short_name": "The Drawer",
+  "description": "Pick a pair for the day from your own collection.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#20131f",
+  "theme_color": "#20131f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
