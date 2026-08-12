@@ -1,6 +1,6 @@
 /* The Drawer — offline shell.
    Bump CACHE when you change any file, so phones pick up the new version. */
-const CACHE = 'drawer-v1';
+const CACHE = 'drawer-v2';
 const SHELL = [
   './',
   './index.html',
